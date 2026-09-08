@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "ok": true,
   "source": "market-news",
   "stale": false,
@@ -8,8 +8,9 @@
     "SOXL",
     "TSLA",
     "SPCX",
-    "AIPO"
+    "AIPO",
+    "IGV"
   ],
-  "updatedAt": 1788704009257,
-  "updatedAtText": "2026-09-06T14:13:29Z"
+  "updatedAt": 1788867513960,
+  "updatedAtText": "2026-09-08T11:38:33Z"
 }
