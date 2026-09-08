@@ -1,0 +1,15 @@
+{
+  "count": 5,
+  "ok": true,
+  "source": "market-news",
+  "stale": false,
+  "symbols": [
+    "DRAM",
+    "SOXL",
+    "TSLA",
+    "SPCX",
+    "AIPO"
+  ],
+  "updatedAt": 1788704009257,
+  "updatedAtText": "2026-09-06T14:13:29Z"
+}
